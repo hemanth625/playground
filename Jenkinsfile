@@ -1,5 +1,4 @@
-I am in A branch
-somechanges i am doing
+this is to demonstrate in A Branch
 
 pipeline {
     agent any 
